@@ -5,7 +5,7 @@
 
 /**
  *
- * @author JOSE MARTIN
+ * @author XIOMARA MAYDEE
  */
 import javax.swing.SwingUtilities;
 import javax.swing.UIManager;

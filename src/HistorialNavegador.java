@@ -5,7 +5,7 @@
 
 /**
  *
- * @author JOSE MARTIN
+ * @author XIOMARA MAYDEE
  */
 import java.util.Collections;
 import java.util.List;

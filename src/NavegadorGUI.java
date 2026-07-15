@@ -5,7 +5,7 @@
 
 /**
  *
- * @author JOSE MARTIN
+ * @author XIOMARA MAYDEE
  */
 import javax.swing.*;
 import javax.swing.border.*;
@@ -78,7 +78,8 @@ public class NavegadorGUI extends JFrame {
         JPanel izqTitulo = new JPanel(new FlowLayout(FlowLayout.LEFT, 12, 0));
         izqTitulo.setOpaque(false);
         izqTitulo.add(new JLabel(new IconoLogo(26, ACCENT_MAGENTA, ACCENT_VIOLET)));
-        JLabel appName = new JLabel("Navegador Web");
+        JLabel appName = new JLabel("Navegador Web"
+                + "");
         appName.setForeground(TEXT_WHITE);
         appName.setFont(new Font("Segoe UI", Font.BOLD, 20));
         izqTitulo.add(appName);
